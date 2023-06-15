@@ -1,0 +1,23 @@
+Body{
+    color:black;
+    background: rgb(214, 136, 136);
+}
+
+.heading{
+    width: 70%;
+    font-size:22px; ;
+}
+
+#camera{
+    border: 2px dashed black;
+    width: 350px;
+    height: 300px;
+}
+
+.name_of_family_members{
+    color:rgb(26, 92, 94);
+}
+
+#result_object_name, #result_objcets_accuracy{
+    color:rgb(145, 59, 202);
+}
